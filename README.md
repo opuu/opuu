@@ -1,4 +1,4 @@
-## Obaydur Rahman
+# Obaydur Rahman
 
 [![Website](https://img.shields.io/website?label=opu.rocks&style=for-the-badge&url=https%3A%2F%2Fopu.rocks)](https://opu.rocks)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/obayedopu)
@@ -51,6 +51,8 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
 
 <br/>
 <br/>
