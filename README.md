@@ -1,6 +1,6 @@
 # Obaydur Rahman
 
-[![Website](https://img.shields.io/website?label=opu.rocks&style=for-the-badge&url=https%3A%2F%2Fopu.rocks)](https://opu.rocks)
+[![Website](https://img.shields.io/website?label=opu.rocks&style=for-the-badge&url=https://opu.rocks/?source=github-profile)](https://opu.rocks)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/obayedopu)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/obayed.opu.1)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obayedopu)
