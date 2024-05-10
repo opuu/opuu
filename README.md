@@ -6,6 +6,7 @@
 [![Twitter Follow](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obayedopu)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/obayed_opu)
 [![Dribbble Follow](https://img.shields.io/badge/Dribbble-FF0000?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/obayedopu)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~012150354ae6666135?mp_source=share)
 [![Codepen Follow](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/opuu)
 [![Stackoverflow Follow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14350456/obaydur-rahman)
 
