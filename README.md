@@ -71,7 +71,7 @@
 <br/>
 <br/>
 
-### Backend Frameworks
+### Backend
 
 <img align="left" alt="Express" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="padding-right:15px; filter: invert(1)" />
 
