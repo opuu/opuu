@@ -75,7 +75,7 @@
 
 <img align="left" alt="Express" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="padding-right:15px; filter: invert(1)" />
 
-<img align="left" alt="Hono" width="26px" height="26px" src="https://hono.dev/images/logo.svg" style="padding-right:15px;" />
+<img align="left" alt="Hono" width="26px" height="26px" src="https://hono.dev/images/logo.png" style="padding-right:15px;" />
 
 <img align="left" alt="Nest" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" style="padding-right:15px;" />
 
