@@ -2,9 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=opu.rocks&style=for-the-badge&url=https://opu.rocks/?source=github-profile)](https://opu.rocks)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/obayedopu)
-[![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/obayed.opu.1)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obayedopu)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/obayed_opu)
 [![Dribbble Follow](https://img.shields.io/badge/Dribbble-FF0000?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/obayedopu)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~012150354ae6666135?mp_source=share)
 [![Codepen Follow](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/opuu)
@@ -25,17 +23,25 @@
 
 <img align="left" alt="Sass" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="padding-right:15px;" />
 
-<br/><br/>
-
 <img align="left" alt="PHP" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="padding-right:15px;" />
 
-<img align="left" alt="Python" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:15px;" />
 
-<img align="left" alt="Bash" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="padding-right:15px;" />
+<br/><br/>
+
+
+<img align="left" alt="Python" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:15px;" />
 
 <img align="left" alt="Java" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:15px;" />
 
 <img align="left" alt="C" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="padding-right:15px;" />
+
+<img align="left" alt="C" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" style="padding-right:15px;" />
+
+<img align="left" alt="Bash" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="padding-right:15px;" />
+
+<img align="left" alt="Markdown" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="padding-right:15px;" />
+
+
 
 <br/>
 <br/>
@@ -73,9 +79,11 @@
 
 ### Backend
 
-<img align="left" alt="Express" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="padding-right:15px; filter: invert(1)" />
+<img align="left" alt="Elysia" width="26px" height="26px" src="https://elysiajs.com/assets/elysia.svg" style="padding-right:15px;" />
 
 <img align="left" alt="Hono" width="26px" height="26px" src="https://hono.dev/images/logo.png" style="padding-right:15px;" />
+
+<img align="left" alt="Express" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style="padding-right:15px; filter: invert(1)" />
 
 <img align="left" alt="Nest" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" style="padding-right:15px;" />
 
@@ -89,11 +97,22 @@
 
 <img align="left" alt="PostgreSQL" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="padding-right:15px;" />
 
-<img align="left" alt="MongoDB" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:15px;" />
-
 <img align="left" alt="Redis" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="padding-right:15px;" />
 
-<img align="left" alt="SQLite" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg" style="padding-right:15px; filter: invert(1)" />
+<img align="left" alt="SQLite" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" style="padding-right:15px;" />
+
+<img align="left" alt="MongoDB" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style="padding-right:15px;" />
+
+<br/>
+<br/>
+
+### ORM
+
+<img align="left" alt="Prisma" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"  style="padding-right:15px; filter: invert(1)" />
+
+<img align="left" alt="Drizzle" width="26px" height="26px" src="https://avatars.githubusercontent.com/u/108468352?s=256"  style="padding-right:15px; filter: invert(1)" />
+
+<img align="left" alt="TypeORM" width="26px" height="26px" src="https://avatars.githubusercontent.com/u/20165699?s=256"  style="padding-right:15px;" />
 
 <br/>
 <br/>
@@ -145,6 +164,18 @@
 
 <img align="left" alt="GitHub" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:15px;filter: invert(1);" />
 
+<img align="left" alt="Nginx" width="26px" height="26px" src="https://www.svgrepo.com/show/354115/nginx.svg" style="padding-right:15px;" />
+
+<img align="left" alt="Prettier" width="26px" height="26px" src="https://prettier.io/icon.png" style="padding-right:15px;" />
+
+<img align="left" alt="Eslint" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" style="padding-right:15px;" />
+
+<img align="left" alt="Zod" width="26px" height="26px" src="https://zod.dev/logo/logo.svg" style="padding-right:15px;" />
+
+<img align="left" alt="Jest" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="padding-right:15px;" />
+
+<br/><br/>
+
 <img align="left" alt="OpenAPI" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" style="padding-right:15px;" />
 
 <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:15px;" />
@@ -154,6 +185,10 @@
 <img align="left" alt="Insomnia" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" style="padding-right:15px;" />
 
 <img align="left" alt="Docker" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" style="padding-right:15px;" />
+
+<img align="left" alt="NPM" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" style="padding-right:15px;" />
+
+<img align="left" alt="PNPM" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" style="padding-right:15px;" />
 
 <br/><br/>
 
